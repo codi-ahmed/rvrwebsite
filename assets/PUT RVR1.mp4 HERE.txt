@@ -1,0 +1,3 @@
+Put the client video here, named exactly:  RVR1.mp4
+
+The final path must be:  rvr-website/assets/RVR1.mp4
